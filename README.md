@@ -1,6 +1,5 @@
-###Pagina web personal
-#En contruccion!!
-
+# Pagina web
+Pagina web en construcción. Es un blog personal echo por Cesar David .
 <!--
 **soycesardv/soycesardv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
