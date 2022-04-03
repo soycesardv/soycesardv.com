@@ -62,9 +62,12 @@
 .items-navbar:hover::before {
 	width: 100%;
 }
+
+/* Contenedor sub navbar */
+
 .contenedor_sub-navbar {
 	width: 100%;
-	height: 55vh;
+	height: 365px;
 	background: #0a0b0c;
 	text-align: center;
 }
@@ -72,14 +75,14 @@
 	margin: auto;
 	overflow: hidden;
 	width: 250px;
-	height: auto;
-	border:  2px solid black;
+	height: 250px;
+	border:  2px solid #00000000;
 	border-radius: 50%;
 	margin-bottom: 15px;
 }
 .contenedor_sub-navbar img {
-	width: 250px;
-	height: auto;
+	width: 100%;
+	height: 100%;
 }
 .contenedor_sub-navbar > h1 {
 	color : #fff;
